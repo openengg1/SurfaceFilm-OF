@@ -1,5 +1,5 @@
 # Surface Film Modeling for OpenFOAM Spray Simulations
-Surface film modeling
+Surface film modeling: 
 This repository has different commonly used surface film models used in 3D-CFD. The main goal to create the content is to provide open access to the 3D code development for any CFD professional who wants to develop or utilize the existing models.
 Following models have been implemented and validated:
 1. Bai-Gosman (1997)
