@@ -6,4 +6,5 @@ Following models have been implemented and validated:
 2. Stanton-Rutland (1998)
 3. O'Rourke-Amsden (2000)
 
-The files are arranged based on the models. Comments to the equations and variable have been added as and when required. 
+The files are arranged based on the models. Comments to the equations and variable have been added as and when required. Please cite the following paper if you choose to use any of the implementations on this repository: https://www.sae.org/publications/technical-papers/content/2019-01-0209/
+For any queries please reach out to me on: rmishra@tamu.edu
